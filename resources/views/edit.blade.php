@@ -8,7 +8,7 @@
     <label for="name">Name</label>
     <input type="text" name="name" value="{{ $cmp->name }}"><br>
     <hr>
-    <label for="email">Email</label>
+    <label for="Email">Email</label>
     <input type="email" name="email" value="{{ $cmp->email }}"><br>
     <hr>
     <label for="logo">Logo</label>
